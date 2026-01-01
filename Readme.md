@@ -12,12 +12,15 @@
 ### About Me / 关于我
 
 我是一位作曲家
+
 I'm a composer
 
 有时候我会制作一些有关`Chiptune` `VGM`或者是任何有关音频相关的项目
+
 Sometimes I make some projects related to `Chiptune` `VGM`, or any audio-related projects
 
 如果有时间的话，我想要尝试制作有关游戏`彩虹六号：围攻`的工具
+
 If I have time, I want to try making some tools related to the game `Rainbow Six: Siege`
 
 <br/>
@@ -48,32 +51,33 @@ If I have time, I want to try making some tools related to the game `Rainbow Six
 
 <div align="center">
   
-  <!-- Dictionary of stats: https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rennsou1&show_icons=true&theme=tokyonight&locale=cn" alt="Rennsou1's GitHub Stats" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennsou1&layout=compact&theme=tokyonight&locale=cn" alt="Top Languages" height="180px" />
+  <!-- Static generated cards -->
+  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="Rennsou1's GitHub Stats" height="180px" />
+  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="180px" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rennsou1&theme=tokyonight&local=cn" alt="Rennsou1's Streak" />
+  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 <br/>
 
+<!-- 
 ### Trophies / 奖杯
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rennsou1&theme=flat&no-frame=true&column=7" alt="Rennsou1's Trophies" />
 </div>
 
-<br/>
+<br/> 
+-->
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Rennsou1/Rennsou1/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
