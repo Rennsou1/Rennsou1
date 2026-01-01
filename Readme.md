@@ -52,15 +52,15 @@ If I have time, I want to try making some tools related to the game `Rainbow Six
 <div align="center">
   
   <!-- Static generated cards -->
-  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="Rennsou1's GitHub Stats" height="180px" />
-  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="180px" />
+  <img src="https://cdn.jsdelivr.net/gh/Rennsou1/Rennsou1@output/profile-summary-card-output/tokyonight/3-stats.svg" alt="Rennsou1's GitHub Stats" height="180px" />
+  <img src="https://cdn.jsdelivr.net/gh/Rennsou1/Rennsou1@output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="180px" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://cdn.jsdelivr.net/gh/Rennsou1/Rennsou1@output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 <br/>
@@ -77,7 +77,7 @@ If I have time, I want to try making some tools related to the game `Rainbow Six
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/Rennsou1/Rennsou1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/Rennsou1/Rennsou1@output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
