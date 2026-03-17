@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi+There!I'm+Rennsou1;大家好啊！我是+Rennsou1" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
+<div align="left">
   <p>Visitor Count / 访客数</p>
   <img src="https://komarev.com/ghpvc/?username=Rennsou1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
